@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quick-list-React/static/css/main.2b8860a1.css",
+    "main.js": "/Quick-list-React/static/js/main.dd4fd3c7.js",
+    "index.html": "/Quick-list-React/index.html",
+    "main.2b8860a1.css.map": "/Quick-list-React/static/css/main.2b8860a1.css.map",
+    "main.dd4fd3c7.js.map": "/Quick-list-React/static/js/main.dd4fd3c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b8860a1.css",
+    "static/js/main.dd4fd3c7.js"
+  ]
+}
